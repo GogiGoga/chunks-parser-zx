@@ -1,3 +1,5 @@
+via http://hype.retroscene.org/blog/813.html
+
 Описание тестов
 ---
 
